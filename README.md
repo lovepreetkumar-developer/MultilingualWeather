@@ -1,5 +1,5 @@
 # MultilingualWeather
-MultilingualWeather is a best application for Weather Forecasting.
+Multilingual Weather is a weather application that uses the OpenWeatherMap API to provide real-time weather data. With support for multiple languages, users can easily view weather updates in their preferred language. The app also offers a custom theme color option, allowing for personalized user experience, and includes a dark/light mode toggle for better accessibility based on user preferences. Ideal for users who want weather information in a customizable and language-friendly format.
 
 https://github.com/user-attachments/assets/bb80f98a-ce72-4239-8ff9-b05e98605475
 
